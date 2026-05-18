@@ -2,6 +2,7 @@ package armrobot.model;
 
 // WEEK 6: Sphere extends ObjectItem (superclass)
 // Sphere inherits id, name, shape from ObjectItem
+// Sphere adds its own special method: roll()
 public class Sphere extends ObjectItem {
 
     // ---- Constructor ----
