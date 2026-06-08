@@ -1,4 +1,4 @@
-# ArmRobot Project OOP (Complete Version)
+# ArmRobot Project OOP (
 
 A Java project built for the Object Oriented Concept (OOC) course. This project simulates an advanced arm robot control system and demonstrates OOP concepts from Week 1 through Week 10.
 
